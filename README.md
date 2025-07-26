@@ -1,31 +1,117 @@
-<h1 align="center">Hey 👋, I'm Humza</h1>
-<h3 align="center">Currently working as an UI Developer in TCS. Majorly breaking things with Angular. Speerheading development and enhancement of a intra-global component library.✌</h3>
+<!--
+      🌟 Visually Stunning Professional GitHub README for Humza Hasan 🌟
+        - Snappy, dev-friendly, and full of flair!
+        - Ready for your profile page!
+-->
 
-<p align="left"> <a href="https://twitter.com/_mr_debugger_" target="blank"><img src="https://img.shields.io/twitter/follow/_mr_debugger_?logo=twitter&style=for-the-badge" alt="_mr_debugger_" /></a> </p>
+# 👋 Hey there, I'm **Humza Hasan**!  
+### 🚀 Senior Frontend Developer | React & TypeScript Specialist | Micro-Frontend Enthusiast
 
-- 🌱 I’m currently learning **React ⚛**
+---
 
-- 👨‍💻 All of my projects are available at [https://humzacodes.netlify.app/](https://humzacodes.netlify.app/)
-
-- 💬 Ask me about **javascript, web developement**
-
-- 📫 How to reach me **humzahasan2101@gmail.com**
-
-- ⚡ Fun fact **Music Junkie🎧 "That's more than 98% of other listeners in India" - Spotify Wrapped**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/thehumzahasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thehumzahasan" height="30" width="40" /></a>
-<a href="https://twitter.com/_mr_debugger_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mr_debugger_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/humzahasannit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humzahasannit" height="30" width="40" /></a>
-<a href="https://instagram.com/codewithbravopy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithbravopy" height="30" width="40" /></a>
-<a href="https://medium.com/@humzahasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@humzahasan" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thehumzahasan&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Frontend%20Mentor-Yes-brightgreen?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/Location-Noida,%20India-orange?style=flat-square&logo=google-maps"/>
+  <img src="https://img.shields.io/github/followers/thehumzahasan?style=flat-square" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/badge/Blogger-dev.to,%20Medium-black?style=flat-square&logo=dev.to"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humzahasan&show_icons=true&locale=en&layout=compact" alt="humzahasan" /></p>
+## ✨ About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humzahasan&show_icons=true&locale=en" alt="humzahasan" /></p>
+Hi, I'm Humza — a Senior Frontend Developer with 6+ years of driving innovation in scalable, production-grade web apps. I specialize in React, TypeScript, and architecting high-performing, user-centric digital experiences.  
+I obsess over Core Web Vitals, accessibility, and love empowering dev teams through mentorship and knowledge sharing.
+
+- Currently @ **Publicis Sapient** building enterprise dashboards & automating workflows with next-gen web tech.
+
+---
+
+## 🛠️ Tech Toolbox
+
+### **Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+
+### **Frameworks / Libraries**
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764abc?style=for-the-badge&logo=redux&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/RTL-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Handlebars](https://img.shields.io/badge/Handlebars-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005f0f?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8dd6f9?style=for-the-badge&logo=webpack&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### **Dev Practices**
+![Micro-Frontends](https://img.shields.io/badge/Micro--Frontends-0066ff?style=for-the-badge&logo=webpack&logoColor=white)
+![Core Web Vitals](https://img.shields.io/badge/Core%20Web%20Vitals-green?style=for-the-badge)
+![SEO](https://img.shields.io/badge/SEO-0A66C2?style=for-the-badge&logo=searchengineland&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-AA0288?style=for-the-badge&logo=w3c&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-6F42C1?style=for-the-badge&logo=scrumalliance&logoColor=white)
+---
+
+## 🌟 Featured Projects
+
+**🚀 [Micro-Frontend Internal Dashboard (Publicis Sapient)](https://github.com/thehumzahasan)**  
+> Scalable dashboard for a major US telecom, built with React, TypeScript & Module Federation  
+![Repo](https://img.shields.io/badge/GitHub-Private-black?style=flat&logo=github)
+
+**🧠 [AI Cover Letter Generator (Seekho)](https://github.com/thehumzahasan/seekho-ai-cover-letter)**  
+> AI-powered career tool generating custom cover letters for users  
+![Repo](https://img.shields.io/badge/Major%20Feature-Code-yellow?style=flat&logo=github)
+
+**📦 [Custom DataTable Library](https://github.com/thehumzahasan/custom-datatable)**  
+> Reusable, accessible, feature-rich React datatable with advanced filters  
+![Repo](https://img.shields.io/badge/GitHub-Code-blue?style=flat&logo=github)
+
+**🔍 [SEO Landing Pages](https://github.com/thehumzahasan/seo-landing-pages)**  
+> Dynamic, optimized landing pages driving 40% traffic growth  
+![Repo](https://img.shields.io/badge/SEO-Boost-brightgreen?style=flat&logo=google)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=humzahasan&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humzahasan&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humzahasan&theme=radical" alt="Streak Stats"/>
+  <br>
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=humzahasan&theme=radical&margin-w=10" alt="Trophies" height="140"/> -->
+</p>
+
+---
+
+## 💡 Interests & Fun Facts
+
+- 🍳 Foodie-turned-home-chef — always experimenting with recipes  
+- 👨‍💻 Passionate tech mentor and community advocate  
+- 📚 Writing about frontend, accessibility & career on [Dev.to](https://dev.to/thehumzahasan) and [Medium](https://medium.com/@humzahasan)  
+- 🧑‍🏫 Advocate for accessible web and user-first design  
+- ☕️ Always up for code & coffee chats!
+
+---
+
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-humzahasan2101@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:humzahasan2101@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-humza--hasan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/humza-hasan)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-black?style=flat-square&logo=dev.to)](https://dev.to/thehumzahasan)
+[![Medium](https://img.shields.io/badge/Medium-Blog-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@humzahasan)
+[![Instagram](https://img.shields.io/badge/Instagram-codewithbravopy-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/codewithbravopy/)
+
+---
+
+⭐️ *Thanks for scrolling by — let’s collaborate, ship something cool, or just vibe over clean code and coffee! Happy coding! 🚀*
 
