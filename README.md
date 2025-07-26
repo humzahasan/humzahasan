@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thehumzahasan&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=humzahasan&style=flat-square&color=blueviolet" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Frontend%20Mentor-Yes-brightgreen?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/Location-Noida,%20India-orange?style=flat-square&logo=google-maps"/>
   <img src="https://img.shields.io/github/followers/thehumzahasan?style=flat-square" alt="GitHub Followers"/>
