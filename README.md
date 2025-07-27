@@ -1,117 +1,108 @@
+
 <!--
-      🌟 Visually Stunning Professional GitHub README for Humza Hasan 🌟
-        - Snappy, dev-friendly, and full of flair!
-        - Ready for your profile page!
+   Hi! Welcome to the profile of Humza Hasan. 
+   If you like what you see — let's connect!
 -->
 
-# 👋 Hey there, I'm **Humza Hasan**!  
-### 🚀 Senior Frontend Developer | React & TypeScript Specialist | Micro-Frontend Enthusiast
+# 👋 Hey, I'm Humza Hasan
+
+### 🚀 Senior Frontend Developer · Noida, India
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=humzahasan&style=flat-square&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Frontend%20Mentor-Yes-brightgreen?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/Location-Noida,%20India-orange?style=flat-square&logo=google-maps"/>
-  <img src="https://img.shields.io/github/followers/thehumzahasan?style=flat-square" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/Blogger-dev.to,%20Medium-black?style=flat-square&logo=dev.to"/>
-</p>
+> **Senior Frontend Developer with 6+ years of experience delivering scalable, high-performing web applications. Specialized in React, TypeScript, and Micro-Frontend architectures. Adept at leading critical frontend modules, optimizing performance, and mentoring junior developers. Passionate about web accessibility, automation, and sharing knowledge through teaching and writing.**
 
 ---
 
-## ✨ About Me
+## 🛠️ Tech Stack & Toolbelt
 
-Hi, I'm Humza — a Senior Frontend Developer with 6+ years of driving innovation in scalable, production-grade web apps. I specialize in React, TypeScript, and architecting high-performing, user-centric digital experiences.  
-I obsess over Core Web Vitals, accessibility, and love empowering dev teams through mentorship and knowledge sharing.
+**Languages & Frameworks**
+  
+[![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=flat-square)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript%20(ES6+)-F7DF1E?logo=javascript&logoColor=black&style=flat-square)]()
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)]()
+[![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=flat-square)]()
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)]()
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)]()
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)]()
+[![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square)]()
+[![React Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?logo=testing-library&logoColor=white&style=flat-square)]()
 
-- Currently @ **Publicis Sapient** building enterprise dashboards & automating workflows with next-gen web tech.
+<details>
+  <summary>Other:</summary>
+  <code>Handlebars</code>
+  <code>Thymeleaf</code>
+  <code>Pebble</code>
+  <code>Progress OpenEdge</code>
+</details>
+
+**Tools & Practices**
+
+[![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat-square)]()
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)]()
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)]()
+[![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white&style=flat-square)]()
+![Agile](https://img.shields.io/badge/-Agile%20Methodology-FCA121?logo=scrumalliance&logoColor=white&style=flat-square)
+[![REST API](https://img.shields.io/badge/-REST%20APIs-02569B?logo=swagger&logoColor=white&style=flat-square)]()
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🏆 Highlights & Projects
 
-### **Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+- **Internal Dashboard for US Telecom Client (Publicis Sapient)**  
+  Led development of a modular React+TypeScript dashboard with Micro Frontend architecture; implemented automation using GCP APIs and built reusable, accessible datatable components.
 
-### **Frameworks / Libraries**
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764abc?style=for-the-badge&logo=redux&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/RTL-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Handlebars](https://img.shields.io/badge/Handlebars-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005f0f?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8dd6f9?style=for-the-badge&logo=webpack&logoColor=white)
+- **Seekho Website Revamp**  
+  Redesigned and optimized mobile-first user experience, driving a 40% increase in mobile traffic and 30% growth in organic traffic; built AI-driven features and gamification for user engagement.
 
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### **Dev Practices**
-![Micro-Frontends](https://img.shields.io/badge/Micro--Frontends-0066ff?style=for-the-badge&logo=webpack&logoColor=white)
-![Core Web Vitals](https://img.shields.io/badge/Core%20Web%20Vitals-green?style=for-the-badge)
-![SEO](https://img.shields.io/badge/SEO-0A66C2?style=for-the-badge&logo=searchengineland&logoColor=white)
-![Accessibility](https://img.shields.io/badge/Accessibility-AA0288?style=for-the-badge&logo=w3c&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-6F42C1?style=for-the-badge&logo=scrumalliance&logoColor=white)
----
-
-## 🌟 Featured Projects
-
-**🚀 [Micro-Frontend Internal Dashboard (Publicis Sapient)](https://github.com/thehumzahasan)**  
-> Scalable dashboard for a major US telecom, built with React, TypeScript & Module Federation  
-![Repo](https://img.shields.io/badge/GitHub-Private-black?style=flat&logo=github)
-
-**🧠 [AI Cover Letter Generator (Seekho)](https://github.com/thehumzahasan/seekho-ai-cover-letter)**  
-> AI-powered career tool generating custom cover letters for users  
-![Repo](https://img.shields.io/badge/Major%20Feature-Code-yellow?style=flat&logo=github)
-
-**📦 [Custom DataTable Library](https://github.com/thehumzahasan/custom-datatable)**  
-> Reusable, accessible, feature-rich React datatable with advanced filters  
-![Repo](https://img.shields.io/badge/GitHub-Code-blue?style=flat&logo=github)
-
-**🔍 [SEO Landing Pages](https://github.com/thehumzahasan/seo-landing-pages)**  
-> Dynamic, optimized landing pages driving 40% traffic growth  
-![Repo](https://img.shields.io/badge/SEO-Boost-brightgreen?style=flat&logo=google)
+- **Online Education Web Application**  
+  Created a Python CGI-based web app enabling account creation and document sharing; focused on user experience and backend integration.
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=humzahasan&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humzahasan&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humzahasan&theme=radical" alt="Streak Stats"/>
-  <br>
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=humzahasan&theme=radical&margin-w=10" alt="Trophies" height="140"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=humzahasan&show_icons=true&theme=github_dark" height="150">
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humzahasan&layout=compact&theme=github_dark" height="150">
 </p>
 
 ---
 
-## 💡 Interests & Fun Facts
+## 🤝 Let's Collaborate!
 
-- 🍳 Foodie-turned-home-chef — always experimenting with recipes  
-- 👨‍💻 Passionate tech mentor and community advocate  
-- 📚 Writing about frontend, accessibility & career on [Dev.to](https://dev.to/thehumzahasan) and [Medium](https://medium.com/@humzahasan)  
-- 🧑‍🏫 Advocate for accessible web and user-first design  
-- ☕️ Always up for code & coffee chats!
-
----
-
-## 📫 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-humzahasan2101@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:humzahasan2101@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-humza--hasan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/humza-hasan)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-black?style=flat-square&logo=dev.to)](https://dev.to/thehumzahasan)
-[![Medium](https://img.shields.io/badge/Medium-Blog-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@humzahasan)
-[![Instagram](https://img.shields.io/badge/Instagram-codewithbravopy-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/codewithbravopy/)
+💡 I’m always up for:
+- Exciting collaborations  
+- Mentoring  
+- Knowledge sharing & feedback  
+- Tech writing & community events
 
 ---
 
-⭐️ *Thanks for scrolling by — let’s collaborate, ship something cool, or just vibe over clean code and coffee! Happy coding! 🚀*
+## 🎉 Beyond Code
 
+- 🍳 **Cooking enthusiast**
+- 👨‍🏫 **Enjoy mentoring & teaching**
+- ✍️ **Love writing about tech**
+
+---
+
+## 💬 Fun Fact/Quote
+
+> _"If you're still reading (thank you 😊), feel free to check out my GitHub or drop a message — I’m always open to exciting collaborations, feedback, or just a chat about code and coffee!"_
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/humza-hasan)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/thehumzahasan)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/_mr_debugger_)
+[![Blog](https://img.shields.io/badge/-DEV%20Blog-0A0A0A?logo=dev.to&logoColor=white&style=flat-square)](https://dev.to/thehumzahasan)
+
+---
+
+<sup>
+⭐️ _Thanks for stopping by! If anything here resonated, let's connect!_
+</sup>
