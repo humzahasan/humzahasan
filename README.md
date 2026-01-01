@@ -10,7 +10,7 @@
 
 ---
 
-> **Senior Frontend Developer with 6+ years of experience delivering scalable, high-performing web applications. Specialized in React, TypeScript, and Micro-Frontend architectures. Adept at leading critical frontend modules, optimizing performance, and mentoring junior developers. Passionate about web accessibility, automation, and sharing knowledge through teaching and writing.**
+> **Senior Frontend Developer with 7 years of experience delivering scalable, high-performing web applications. Specialized in React, TypeScript, and Micro-Frontend architectures. Adept at leading critical frontend modules, optimizing performance, and mentoring junior developers. Passionate about web accessibility, automation, and sharing knowledge through teaching and writing.**
 
 ---
 
