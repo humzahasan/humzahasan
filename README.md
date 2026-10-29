@@ -60,8 +60,11 @@
 - **[QueryStack](https://querystack.in/)** · [source](https://github.com/humzahasan/querystack)  
   Ask a database a question in plain English and get read-only SQL or MongoDB queries, results and charts. The model runs on your device.
 
-- **[ReadmeGenie](https://readmegenie.com/)** · [source](https://github.com/humzahasan/readme-genie-magic)  
+- **[ReadmeGenie](https://readmegenie.netlify.app/)** · [source](https://github.com/humzahasan/readme-genie-magic)  
   Turns a CV and a LinkedIn export into a polished GitHub profile README, with an LLM running in your browser.
+
+- **[Sunar Studio](https://sunarstudio.netlify.app/)**  
+  Upload a jewellery CAD file and get catalogue images in yellow, rose and white gold, plus 22K, 18K and 14K gold weight, in about two minutes. Built for Indian jewellers.
 
 - **[On-Device Finance Assistant](https://github.com/humzahasan/ondevicellm)**  
   A private finance chat on WebGPU. Your transactions never leave the browser.
