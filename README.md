@@ -8,7 +8,7 @@
 
 ### 🚀 Senior Frontend Developer · Noida, India
 
-🌐 **[humzahasan.dev](https://humzahasan.dev/)** · 💼 [LinkedIn](https://www.linkedin.com/in/humza-hasan/) · ✍️ [Dev.to](https://dev.to/thehumzahasan) · 📝 [Medium](https://medium.com/@humzahasan)
+🌐 **[humzahasan.in](https://humzahasan.in/)** · 💼 [LinkedIn](https://www.linkedin.com/in/humza-hasan/) · ✍️ [Dev.to](https://dev.to/thehumzahasan) · 📝 [Medium](https://medium.com/@humzahasan)
 
 ---
 
@@ -95,7 +95,7 @@
 
 - 🍳 **Cooking enthusiast**
 - 👨‍🏫 **Enjoy mentoring & teaching**
-- ✍️ **Love writing about tech** on [humzahasan.dev](https://humzahasan.dev/writing), [Dev.to](https://dev.to/thehumzahasan) and [Medium](https://medium.com/@humzahasan)
+- ✍️ **Love writing about tech** on [humzahasan.in](https://humzahasan.in/writing), [Dev.to](https://dev.to/thehumzahasan) and [Medium](https://medium.com/@humzahasan)
 - ☕ **Side projects get brewed after 9-to-9 workdays and stirred on weekends**
 
 ---
@@ -109,7 +109,7 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/humza-hasan/)
-[![Website](https://img.shields.io/badge/-humzahasan.dev-c6f432?logo=googlechrome&logoColor=black&style=flat-square)](https://humzahasan.dev/)
+[![Website](https://img.shields.io/badge/-humzahasan.in-c6f432?logo=googlechrome&logoColor=black&style=flat-square)](https://humzahasan.in/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/humzahasan)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/_mr_debugger_)
 [![Blog](https://img.shields.io/badge/-DEV%20Blog-0A0A0A?logo=dev.to&logoColor=white&style=flat-square)](https://dev.to/thehumzahasan)
