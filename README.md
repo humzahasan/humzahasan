@@ -8,6 +8,8 @@
 
 ### 🚀 Senior Frontend Developer · Noida, India
 
+🌐 **[humzahasan.dev](https://humzahasan.dev/)** · 💼 [LinkedIn](https://www.linkedin.com/in/humza-hasan/) · ✍️ [Dev.to](https://dev.to/thehumzahasan) · 📝 [Medium](https://medium.com/@humzahasan)
+
 ---
 
 > **Senior Frontend Developer with 7 years of experience delivering scalable, high-performing web applications. Specialized in React, TypeScript, and Micro-Frontend architectures. Adept at leading critical frontend modules, optimizing performance, and mentoring junior developers. Passionate about web accessibility, automation, and sharing knowledge through teaching and writing.**
@@ -55,6 +57,15 @@
 - **Seekho Website Revamp**  
   Redesigned and optimized mobile-first user experience, driving a 40% increase in mobile traffic and 30% growth in organic traffic; built AI-driven features and gamification for user engagement.
 
+- **[QueryStack](https://querystack.in/)** · [source](https://github.com/humzahasan/querystack)  
+  Ask a database a question in plain English and get read-only SQL or MongoDB queries, results and charts. The model runs on your device.
+
+- **[ReadmeGenie](https://readmegenie.com/)** · [source](https://github.com/humzahasan/readme-genie-magic)  
+  Turns a CV and a LinkedIn export into a polished GitHub profile README, with an LLM running in your browser.
+
+- **[On-Device Finance Assistant](https://github.com/humzahasan/ondevicellm)**  
+  A private finance chat on WebGPU. Your transactions never leave the browser.
+
 - **Online Education Web Application**  
   Created a Python CGI-based web app enabling account creation and document sharing; focused on user experience and backend integration.
 
@@ -84,7 +95,8 @@
 
 - 🍳 **Cooking enthusiast**
 - 👨‍🏫 **Enjoy mentoring & teaching**
-- ✍️ **Love writing about tech**
+- ✍️ **Love writing about tech** on [humzahasan.dev](https://humzahasan.dev/writing), [Dev.to](https://dev.to/thehumzahasan) and [Medium](https://medium.com/@humzahasan)
+- ☕ **Side projects get brewed after 9-to-9 workdays and stirred on weekends**
 
 ---
 
@@ -96,10 +108,12 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/humza-hasan)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/thehumzahasan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/humza-hasan/)
+[![Website](https://img.shields.io/badge/-humzahasan.dev-c6f432?logo=googlechrome&logoColor=black&style=flat-square)](https://humzahasan.dev/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/humzahasan)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/_mr_debugger_)
 [![Blog](https://img.shields.io/badge/-DEV%20Blog-0A0A0A?logo=dev.to&logoColor=white&style=flat-square)](https://dev.to/thehumzahasan)
+[![Medium](https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=white&style=flat-square)](https://medium.com/@humzahasan)
 
 ---
 
